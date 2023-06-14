@@ -1,0 +1,4 @@
+name = "FastenerLoadDef"
+uuid = "488e30c5-58cc-40bf-bc0c-5284e91f032a"
+authors = ["Cris Moen <54078289+cristophermoen@users.noreply.github.com>"]
+version = "0.1.0"
